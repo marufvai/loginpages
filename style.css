@@ -1,0 +1,60 @@
+body{
+    background: #8ef803;
+
+}
+
+.box{
+    width: 300px;
+    background: hsl(125, 91%, 21%);
+    color:#DAE1E1 ;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 150px;
+    padding: 20px;
+    box-shadow: 10px 2px 40px 20px #DAE1E1;
+    transform: skew(-10deg);
+ 
+
+}
+button{
+    width: 100%;
+    height: 40px;
+  margin-top: 20px;
+  color: #DAE1E1;
+  font-weight: bold;
+  background: linear-gradient(hsl(120, 91%, 13%),#8ef803);
+  
+ 
+
+}
+
+span{
+margin-top: 20px;
+}
+
+.reg{
+    color: #DAE1E1;
+    font-style: none;
+    margin-top: 20px;
+}
+
+.pass{
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 6px; padding: 10px;  text-align: center;
+}
+
+.mail{
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 6px;
+    padding: 10px;
+  text-align: center;
+}
+
+.auto{
+    text-transform: uppercase;
+    width: 230px;
+    margin: auto;
+    
+}
